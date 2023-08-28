@@ -1,3 +1,4 @@
 import json
 import time
-from kafka import KafkaConsumer
+from kafka import KafkaProducer
+print('Imported modules')
